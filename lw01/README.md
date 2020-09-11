@@ -13,6 +13,10 @@
 4. Заполнить форму google.
 5. Дождаться одобрения преподавателем.
 
+## Срок сдачи работы
+
+До вечера 20 сентября 2020 года.
+
 ## Выбор тематики будущего веб-сайта
 
 В рамках данного курса вам необходимо будет создать небольшое веб-приложение.
@@ -71,7 +75,7 @@
 
 ## Создание шаблона
 
-TODO: видео
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCcqBQnSOHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Требования к макету:
 
