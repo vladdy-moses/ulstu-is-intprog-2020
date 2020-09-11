@@ -75,7 +75,7 @@
 
 ## Создание шаблона
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCcqBQnSOHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/XCcqBQnSOHQ/0.jpg)](https://www.youtube.com/watch?v=XCcqBQnSOHQ)
 
 Требования к макету:
 
@@ -98,4 +98,4 @@
 
 ## Дождаться одобрения преподавателем
 
-Ссылки на таблицы с вашим прогрессом по сдаче лабораторных работ можете видеть [на главной странице курса](/).
+Ссылки на таблицы с вашим прогрессом по сдаче лабораторных работ можете видеть [на главной странице курса](../README.md).
