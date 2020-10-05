@@ -97,7 +97,7 @@
 
 ## Отправка задания на проверку 
 
-Необходимо заполнить гугл-форму: ССЫЛКА_ПОЯВИТСЯ_ПОЗЖЕ.
+Необходимо [заполнить гугл-форму](https://docs.google.com/forms/d/e/1FAIpQLSfPVCbZejZctdPypaK0hGbV3wF6QiIx9U4ZCJNtKFqBX6LBYA/viewform?usp=sf_link).
 
 Все подробности описаны в ней.
 
