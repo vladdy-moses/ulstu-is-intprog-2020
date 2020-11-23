@@ -11,6 +11,10 @@
 3. Затем необходимо выложить сайт в GitHub Pages.
 4. И заполнить [google-форму](https://docs.google.com/forms/d/e/1FAIpQLSd7162EwozigRqHr9RddmEAB7WROr1khr5L4a0ql4es0MMrxg/viewform?usp=sf_link).
 
+## Срок сдачи работы
+
+До 27.11.2020 23:59 по Ульяновскому времени.
+
 ## Исправление замечаний
 
 Пара комментариев после ревью лабораторных работ 2 и 3:
