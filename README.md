@@ -2,7 +2,9 @@
 
 Репозиторий для дисциплины Интернет-Программирование для кафедры ИС УлГТУ, 2020 год.
 
-[Таблица успехов по сдаче лабораторных работ](https://docs.google.com/spreadsheets/d/1IgE7feO2G-fuOSE0tf47a-g8q41qks3eyOcB56LiJ-0/edit?usp=sharing).
+[Таблица успехов по сдаче лабораторных работ - осенний поток](https://docs.google.com/spreadsheets/d/1IgE7feO2G-fuOSE0tf47a-g8q41qks3eyOcB56LiJ-0/edit?usp=sharing).
+
+[Таблица успехов по сдаче лабораторных работ - весенний поток](https://docs.google.com/spreadsheets/d/1gzfj2KaYCqk-ET1lRtM9mynphdr3NwsrKPAKMYCKEVc/edit?usp=sharing).
 
 ## Лабораторные работы
 
