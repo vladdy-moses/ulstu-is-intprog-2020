@@ -6,14 +6,16 @@
 
 ## Ход работы
 
-1. Исправить замечания из [таблицы успехов по сдаче лабораторных работ](https://docs.google.com/spreadsheets/d/1IgE7feO2G-fuOSE0tf47a-g8q41qks3eyOcB56LiJ-0/edit?usp=sharing).
+1. Исправить замечания из [таблицы успехов по сдаче лабораторных работ](https://docs.google.com/spreadsheets/d/1gzfj2KaYCqk-ET1lRtM9mynphdr3NwsrKPAKMYCKEVc/edit?usp=sharing).
 2. Соединить все страницы переходами при помощи гиперссылок или кнопок.
 3. Затем необходимо выложить сайт в GitHub Pages.
 4. И заполнить [google-форму](https://docs.google.com/forms/d/e/1FAIpQLSd7162EwozigRqHr9RddmEAB7WROr1khr5L4a0ql4es0MMrxg/viewform?usp=sf_link).
 
 ## Срок сдачи работы
 
-До 27.11.2020 23:59 по Ульяновскому времени.
+Для осеннего потока - до 27.11.2020 23:59 по Ульяновскому времени.
+
+Для весеннего потока - до 04.04.2020 23:59 по Ульяновскому времени.
 
 ## Исправление замечаний
 
