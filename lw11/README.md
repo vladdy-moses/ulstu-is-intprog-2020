@@ -53,7 +53,7 @@
 Для этого необходимо воспользоваться [этим методом](https://vk.com/dev/friends.get).
 Тогда ссылка будет выглядеть так: `https://api.vk.com/method/friends.get?v=5.130&access_token=XXX`.
 
-Попробуйем получить данные по этой ссылки при помощи нашего клиента: `var result = await httpClient.GetStringAsync($"https://api.vk.com/method/friends.get?v=5.130&access_token={accessToken}");`.
+Попробуем получить данные по этой ссылки при помощи нашего клиента: `var result = await httpClient.GetStringAsync($"https://api.vk.com/method/friends.get?v=5.130&access_token={accessToken}");`.
 Если случилась беда, и среда разработки ругается на `async`, то надо заменить `static void Main` на `static async Task Main` и подключить `using System.Threading.Tasks;`.
 
 Теперь выведем результат на экран при помощи `Console.WriteLine(result);` и получим примерно следующее:
